@@ -1,8 +1,8 @@
-# Liquidity Signature AI – EURUSD
-This project is an AI trading bot focused on detecting liquidity signatures in EURUSD with 1% risk per trade.
+# Liquidity Signature AI
 
-## Project Goals
-- Detect liquidity sweeps and stop hunts
-- Manage trades with 1% risk per position
-- Focus on EURUSD pair
-- Build a foundation for AI-powered execution
+An AI-based trading system that detects liquidity signatures in EUR/USD and executes trades with **1% risk per trade**.  
+The system is built to be modular, scalable, and fully testable.
+
+---
+
+## 📂 Project Structure
